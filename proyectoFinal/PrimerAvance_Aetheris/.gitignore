@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Visual Studio / .NET
+**/bin/
+**/obj/
+.vs/
+
+# ⚠️ Archivos con posibles claves o secretos (para evitar bloqueos de GitHub)
+**/aetheris-ac3f3-firebase-adminsdk-*.json
+**/appsettings*.json
+**/launchSettings.json
+
+# Expo config (innecesario subirlo)
+.expo/
